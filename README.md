@@ -183,7 +183,7 @@ If shortlisted, implementation, setup instructions, testing results, and a live 
 ## Team
 
 Team: Shastra Synergy
-Team Leader:Navnit Yadav
-Member:Devesh Rajput
+Team Leader: Navnit Yadav
+Member: Devesh Rajput
 
 Hackathon:OmniKon
