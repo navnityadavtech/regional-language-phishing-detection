@@ -3,7 +3,7 @@
 Team Shastra Synergy | OmniKon Hackathon | Theme: Cybersecurity, Blockchain & Digital Trust
 
 > Project Status: Idea / Proposal Stage
-> This repository currently contains the concept submission (Phase 1) for OmniKon. No code has been implemented yet. Everything below describes the *proposed* solution, architecture, and implementation plan. Development will begin if the project is shortlisted for the build phase.
+> This repository contains the concept submission (Phase 1) for OmniKon. The working implementation will be developed if the project is shortlisted for the build phase.
 
 ## Team
 
