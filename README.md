@@ -172,11 +172,9 @@ The proposed platform could eventually support collaboration with banks, telecom
 
 ## Current Status
 
-**Idea / Proposal Stage**
+Idea / Proposal Stage
 
 This repository documents the proposed problem, solution, architecture, technology choices, implementation plan, and research references.
-
-**No working code has been implemented yet.**
 
 If shortlisted, implementation, setup instructions, testing results, and a live demonstration link will be added during the Build Week.
 
